@@ -4,11 +4,12 @@
   margin-bottom: 20px;
   text-align: left;
   line-height: 1;
+  padding-top: 0;
 }
 
 .Dictionary section {
   background: rgba(255, 255, 255, 0.562) ;
-  padding: 4px 24px 24px 24px;
+  padding: 24px;
   border-radius: 16px;
   box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
   margin: 20px 0;
