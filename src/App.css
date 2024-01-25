@@ -1,0 +1,22 @@
+body {
+  background: #96acb4;
+}
+
+h1 {
+  text-align: center;
+}
+
+.App {
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+
+
+.App-footer {
+  text-align: center;
+  margin: 30px 0;
+}
+.link {
+  background-color: none;
+}
